@@ -1,0 +1,7 @@
+﻿{
+    "description":  "Data science and machine learning team for data analysis, ML model development, and MLOps",
+    "name":  "data-science",
+    "author":  {
+                   "name":  "atlas-agents"
+               }
+}

@@ -1,0 +1,7 @@
+﻿{
+    "description":  "QA and testing team for automated testing, test coverage, performance testing, and quality assurance",
+    "name":  "qa-testing",
+    "author":  {
+                   "name":  "atlas-agents"
+               }
+}
